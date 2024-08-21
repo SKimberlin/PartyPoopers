@@ -1555,8 +1555,8 @@
 "C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uexp" 1554
 "C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/FirstPerson/Input/IMC_Default.uasset" 1555
 "C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/FirstPerson/Input/IMC_Default.uexp" 1556
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset" 1557
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uexp" 1558
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/BP_PlayerController.uasset" 1557
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/BP_PlayerController.uexp" 1558
 "C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Haptics/GrabHapticEffect.uasset" 1559
 "C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Haptics/GrabHapticEffect.uexp" 1560
 "C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Blueprints/GrabType.uasset" 1561
@@ -2433,23 +2433,22 @@
 "C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/WB_StartMenu.uexp" 2432
 "C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/DefaultGameInstance.uasset" 2433
 "C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/DefaultGameInstance.uexp" 2434
-"../../../Engine/Content/EditorResources/BadBlueprintSprite.ubulk" 2435
-"../../../Engine/Content/EditorResources/BadBlueprintSprite.uasset" 2436
-"../../../Engine/Content/EditorResources/BadBlueprintSprite.uexp" 2437
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/TestWorld.uexp" 2438
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/TestWorld.umap" 2439
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/BP_VRStartMenu.uasset" 2440
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/BP_VRStartMenu.uexp" 2441
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/MainMenuVr_BuiltData.ubulk" 2442
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/MainMenuVr_BuiltData.uasset" 2443
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/MainMenuVr_BuiltData.uexp" 2444
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/MainMenuVr.uexp" 2445
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/MainMenuVr.umap" 2446
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset" 2447
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uexp" 2448
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/FirstPerson/Maps/FirstPersonMap.uexp" 2449
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/FirstPerson/Maps/FirstPersonMap.umap" 2450
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/MainMenu_BuiltData.uasset" 2451
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/MainMenu_BuiltData.uexp" 2452
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/MainMenu.uexp" 2453
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/MainMenu.umap" 2454
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/TestWorld.uexp" 2435
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/TestWorld.umap" 2436
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/BP_VRStartMenu.uasset" 2437
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/BP_VRStartMenu.uexp" 2438
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/MainMenuVr_BuiltData.ubulk" 2439
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/MainMenuVr_BuiltData.uasset" 2440
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/MainMenuVr_BuiltData.uexp" 2441
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/MainMenuVr.uexp" 2442
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/MainMenuVr.umap" 2443
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/MainMenu_BuiltData.uasset" 2444
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/MainMenu_BuiltData.uexp" 2445
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/MainMenu.uexp" 2446
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/TestingCollin/MainMenu.umap" 2447
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset" 2448
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uexp" 2449
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset" 2450
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uexp" 2451
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/FirstPerson/Maps/FirstPersonMap.uexp" 2452
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/FirstPerson/Maps/FirstPersonMap.umap" 2453
