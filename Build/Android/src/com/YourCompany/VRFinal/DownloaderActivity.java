@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.Coixss.VRFinal;
+package com.YourCompany.VRFinal;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;

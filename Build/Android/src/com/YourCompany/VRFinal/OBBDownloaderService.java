@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.Coixss.VRFinal;
+package com.YourCompany.VRFinal;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return com.Coixss.VRFinal.AlarmReceiver.class.getName();
+        return com.YourCompany.VRFinal.AlarmReceiver.class.getName();
     }
 }

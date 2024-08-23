@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.Coixss.VRFinal.OBBDownloaderService;
-import com.Coixss.VRFinal.DownloaderActivity;
+import com.YourCompany.VRFinal.OBBDownloaderService;
+import com.YourCompany.VRFinal.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.Coixss.VRFinal.OBBData;
+import com.YourCompany.VRFinal.OBBData;
 
 
 public class DownloadShim

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.Coixss.VRFinal;
+package com.YourCompany.VRFinal;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 
