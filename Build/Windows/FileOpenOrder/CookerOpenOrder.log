@@ -2485,76 +2485,76 @@
 "../../../Engine/Content/Maps/Entry_BuiltData.uexp" 2484
 "../../../Engine/Content/Maps/Entry.uexp" 2485
 "../../../Engine/Content/Maps/Entry.umap" 2486
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/UI/WB_ServerRow.uasset" 2487
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/UI/WB_ServerRow.uexp" 2488
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/UI/WB_StartMenu.uasset" 2489
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/UI/WB_StartMenu.uexp" 2490
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/MainMenu_BuiltData.uasset" 2491
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/MainMenu_BuiltData.uexp" 2492
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/MainMenu.uexp" 2493
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/MainMenu.umap" 2494
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/RedirectingLevel.uexp" 2495
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/RedirectingLevel.umap" 2496
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/DefaultGameInstance.uasset" 2497
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/DefaultGameInstance.uexp" 2498
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uasset" 2499
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uexp" 2500
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/VFX/NS_MenuLaser.uasset" 2501
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/VFX/NS_MenuLaser.uexp" 2502
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Input/Actions/IA_Menu_Interact_Right.uasset" 2503
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Input/Actions/IA_Menu_Interact_Right.uexp" 2504
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Materials/M_VRCursor.uasset" 2505
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Materials/M_VRCursor.uexp" 2506
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Blueprints/BP_VRStartMenu.uasset" 2507
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Blueprints/BP_VRStartMenu.uexp" 2508
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 2509
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 2510
-"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 2511
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 2512
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 2513
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 2514
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 2515
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 2516
-"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 2517
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 2518
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 2519
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 2520
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 2521
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 2522
-"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 2523
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 2524
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 2525
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 2526
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 2527
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 2528
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 2529
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Textures/T_Grid.ubulk" 2530
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Textures/T_Grid.uasset" 2531
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Textures/T_Grid.uexp" 2532
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uasset" 2533
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uexp" 2534
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 2535
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uexp" 2536
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Materials/M_GridRotation.uasset" 2537
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Materials/M_GridRotation.uexp" 2538
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Materials/MI_Grid_Default.uasset" 2539
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Materials/MI_Grid_Default.uexp" 2540
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/MainMenuVr_BuiltData.ubulk" 2541
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/MainMenuVr_BuiltData.uasset" 2542
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/MainMenuVr_BuiltData.uexp" 2543
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk" 2544
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset" 2545
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Textures/T_GridChecker_A.uexp" 2546
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset" 2547
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Materials/MF_ProcGrid.uexp" 2548
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" 2549
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Materials/M_PrototypeGrid.uexp" 2550
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset" 2551
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uexp" 2552
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Meshes/SM_Cube.uasset" 2553
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Meshes/SM_Cube.uexp" 2554
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/MainMenuVr.uexp" 2555
-"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/MainMenuVr.umap" 2556
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/RedirectingLevel.uexp" 2487
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/RedirectingLevel.umap" 2488
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/DefaultGameInstance.uasset" 2489
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/DefaultGameInstance.uexp" 2490
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uasset" 2491
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uexp" 2492
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/VFX/NS_MenuLaser.uasset" 2493
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/VFX/NS_MenuLaser.uexp" 2494
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/UI/WB_ServerRow.uasset" 2495
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/UI/WB_ServerRow.uexp" 2496
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/UI/WB_StartMenu.uasset" 2497
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/UI/WB_StartMenu.uexp" 2498
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Input/Actions/IA_Menu_Interact_Right.uasset" 2499
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Input/Actions/IA_Menu_Interact_Right.uexp" 2500
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Materials/M_VRCursor.uasset" 2501
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Materials/M_VRCursor.uexp" 2502
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Blueprints/BP_VRStartMenu.uasset" 2503
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Blueprints/BP_VRStartMenu.uexp" 2504
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 2505
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 2506
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 2507
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 2508
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 2509
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 2510
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 2511
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 2512
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 2513
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 2514
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 2515
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 2516
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 2517
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 2518
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 2519
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 2520
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 2521
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 2522
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 2523
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 2524
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 2525
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Textures/T_Grid.ubulk" 2526
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Textures/T_Grid.uasset" 2527
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Textures/T_Grid.uexp" 2528
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uasset" 2529
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uexp" 2530
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 2531
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uexp" 2532
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Materials/M_GridRotation.uasset" 2533
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Materials/M_GridRotation.uexp" 2534
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Materials/MI_Grid_Default.uasset" 2535
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/VRTemplate/Materials/MI_Grid_Default.uexp" 2536
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/MainMenuVr_BuiltData.ubulk" 2537
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/MainMenuVr_BuiltData.uasset" 2538
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/MainMenuVr_BuiltData.uexp" 2539
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk" 2540
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset" 2541
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Textures/T_GridChecker_A.uexp" 2542
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset" 2543
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Materials/MF_ProcGrid.uexp" 2544
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" 2545
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Materials/M_PrototypeGrid.uexp" 2546
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset" 2547
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uexp" 2548
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Meshes/SM_Cube.uasset" 2549
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/LevelPrototyping/Meshes/SM_Cube.uexp" 2550
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/MainMenuVr.uexp" 2551
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/MainMenuVr.umap" 2552
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/MainMenu_BuiltData.uasset" 2553
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/MainMenu_BuiltData.uexp" 2554
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/MainMenu.uexp" 2555
+"C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Maps/MainMenu.umap" 2556
 "C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Materials/Character/DarkBrown.uasset" 2557
 "C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Materials/Character/DarkBrown.uexp" 2558
 "C:/Users/colli/Documents/Unreal Projects/VRFinal/Content/Game/Materials/Character/SkinDark.uasset" 2559
